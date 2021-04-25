@@ -1,0 +1,36 @@
+li{
+    list-style: none;
+}
+
+.special {
+display: flex;
+}
+
+.special_item {
+width: 270px;
+}
+.hero-hedder{
+    width: 696px;
+    font-family: Roboto;
+    font-style: normal;
+    font-size: 44px;
+    line-height: 60px;
+    font-weight: 900;
+}
+.h{
+    display: flex;
+}
+
+.what-we-do{
+    display: flex;
+}
+.i{
+   
+    margin-right: 30px;
+}
+.team{
+    display: flex;
+}
+.team-item{
+    margin-right: 30px;
+}
